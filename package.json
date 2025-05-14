@@ -1,0 +1,26 @@
+{
+  "name": "pratcia-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^14.3.3"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/willianpassos2014/automacao-em-cypress.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/willianpassos2014/automacao-em-cypress/issues"
+  },
+  "homepage": "https://gitlab.com/willianpassos2014/automacao-em-cypress#readme",
+  "description": ""
+}
