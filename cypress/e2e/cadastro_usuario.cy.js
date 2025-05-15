@@ -47,7 +47,7 @@ describe('LoginCadastro de usuário', () => {
     })
     
     
-    it.only('Login com Cadastro com sucesso', async () => {
+    it('Login com Cadastro com sucesso', async () => {
 
         const name = await faker.person.fullName()
 
