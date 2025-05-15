@@ -33,7 +33,7 @@ describe('Login de usuário', () => {
     }),
     
     
-    it.only('Login com sucesso', async () => {
+    it('Login com sucesso', async () => {
 
         const email = await faker.internet.email()
 
