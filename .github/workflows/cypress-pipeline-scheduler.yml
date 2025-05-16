@@ -2,7 +2,7 @@ name: Run Basic Testes
 
 # em que momento será executada
 on: 
-  schedule:
+  scheduler:
     - cron: '0 20 * * 1-5'
 
 jobs:
